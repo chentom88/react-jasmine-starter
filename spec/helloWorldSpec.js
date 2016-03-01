@@ -1,7 +1,7 @@
-import HelloWorld from '../src/helloWorld';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import TestUtils from 'react-addons-test-utils';
+import HelloWorld from '../src/components/hello-world';
 
 const shallowRenderer = TestUtils.createRenderer();
 
